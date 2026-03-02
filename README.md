@@ -21,3 +21,17 @@ Decision Engine
 Automation
       ↓
 Feedback Update (Adaptive Learning)
+
+
+
+## Human Activity Recognition (HAR)
+
+Activity-driven segmentation (Best for Aruba)
+
+Use begin/end markers.
+
+Sample = true activity segment.
+
+Label = activity.
+
+No B/I/E needed.
